@@ -25,3 +25,5 @@ tmp/
 target/
 .idea
 junk*
+.gradle
+build/
